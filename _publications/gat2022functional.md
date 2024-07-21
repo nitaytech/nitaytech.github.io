@@ -2,7 +2,7 @@
 title: "A Functional Information Perspective on Model Interpretation"
 collection: publications
 permalink: /publication/gat222functional
-venue: 'ICML 22'
+venue: 'ICML'
 paperurl: 'https://proceedings.mlr.press/v162/gat22a.html'
 citation: 'Itai Gat, Nitay Calderon, Roi Reichart and Tamir Hazan'
 date: 2022-07-17

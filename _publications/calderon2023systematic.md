@@ -2,7 +2,7 @@
 title: "A Systematic Study of Knowledge Distillation for Natural Language Generation with Pseudo-Target Training"
 collection: publications
 permalink: /publication/calderon2023systematic
-venue: 'ACL 23'
+venue: 'ACL'
 paperurl: 'https://doi.org/10.18653/v1/2023.acl-long.818'
 citation: 'Nitay Calderon, Subhabrata Mukherjee, Roi Reichart and Amir Kantor'
 date: 2023-07-09
