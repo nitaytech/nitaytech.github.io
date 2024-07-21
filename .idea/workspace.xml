@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="664450ab-32df-4dcd-aa6f-ab8735ac2e50" name="Changes" comment="moved publ.">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_publications/badian2024social.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_publications/lissak2024colorful.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/nitaytech.github.io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nitaytech.github.io.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/badian2023picture.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/badian2023picture.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/calderon2023measuring.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/calderon2023measuring.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_publications/gat2023faithful.md" beforeDir="false" afterPath="$PROJECT_DIR$/_publications/gat2023faithful.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +72,7 @@
       <workItem from="1696168087778" duration="23705000" />
       <workItem from="1696415190266" duration="3668000" />
       <workItem from="1696583359577" duration="3226000" />
-      <workItem from="1721569422224" duration="3124000" />
+      <workItem from="1721569422224" duration="4619000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -115,7 +106,15 @@
       <option name="project" value="LOCAL" />
       <updated>1696419250596</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="moved publ.">
+      <option name="closed" value="true" />
+      <created>1721572655409</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721572655409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -2,9 +2,9 @@
 title: "Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals"
 collection: publications
 permalink: /publication/gat@faithful
-venue: 'ICLR, 2024'
+venue: 'ICLR 24'
 paperurl: 'http://arxiv.org/abs/2310.00603'
-citation: 'Yair Gat*, Nitay Calderon*, Amir Feder, Alexander Chapanin, Amit Sharma, Roi Reichart'
+citation: 'Yair Gat*, Nitay Calderon*, Amir Feder, Alexander Chapanin, Amit Sharma, Roi Reichart    *equal contribution'
 date: 2023-10-01
 ---
 <details>

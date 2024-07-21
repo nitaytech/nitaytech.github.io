@@ -2,7 +2,7 @@
 title: "A Functional Information Perspective on Model Interpretation"
 collection: publications
 permalink: /publication/gat222functional
-venue: 'International Conference on Machine Learning, ICML 2022, 17-23 July 2022, Baltimore, Maryland, USA'
+venue: 'ICML 22'
 paperurl: 'https://proceedings.mlr.press/v162/gat22a.html'
 citation: 'Itai Gat, Nitay Calderon, Roi Reichart and Tamir Hazan'
 date: 2022-07-17

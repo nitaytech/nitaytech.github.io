@@ -2,7 +2,7 @@
 title: "From Limited Annotated Raw Material Data to Quality Production Data: A Case Study in the Milk Industry"
 collection: publications
 permalink: /publication/shraga2021limited
-venue: 'CIKM 21: The 30th ACM International Conference on Information and Knowledge Management, Virtual Event, Queensland, Australia, November 1 - 5, 2021'
+venue: 'CIKM 21'
 paperurl: 'https://doi.org/10.1145/3459637.3481921'
 citation: 'Roee Shraga, Gil Katz, Yael Badian, Nitay Calderon and Avigdor Gal'
 date: 2021-11-01

@@ -2,9 +2,9 @@
 title: "DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation"
 collection: publications
 permalink: /publication/calderon2022docogen
-venue: 'Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), ACL 2022, Dublin, Ireland, May 22-27, 2022'
+venue: 'ACL 2022'
 paperurl: 'https://doi.org/10.18653/v1/2022.acl-long.533'
-citation: 'Nitay Calderon*, Eyal Ben-David*, Amir Feder and Roi Reichart'
+citation: 'Nitay Calderon*, Eyal Ben-David*, Amir Feder and Roi Reichart    *equal contribution'
 date: 2022-05-22
 ---
 <details>

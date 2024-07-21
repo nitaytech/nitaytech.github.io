@@ -2,9 +2,9 @@
 title: "Measuring the Robustness of NLP Models to Domain Shifts"
 collection: publications
 permalink: /publication/calderon2023measuring
-venue: 'arXiv, 2024 (under review)'
+venue: 'arXiv (under review)'
 paperurl: 'https://arxiv.org/abs/2306.00168'
-citation: 'Nitay Calderon, Naveh Porat, Eyal Ben-David, Alexander Chapanin, Zorik Gekhman, Nadav Oved, Vitaly Shalumov, Roi Reichart'
+citation: 'Nitay Calderon*, Naveh Porat*, Eyal Ben-David, Alexander Chapanin, Zorik Gekhman, Nadav Oved, Vitaly Shalumov, Roi Reichart    *equal contribution'
 date: 2024-04-20
 ---
 <details>
