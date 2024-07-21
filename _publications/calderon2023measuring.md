@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/calderon2023measuring
 venue: 'arXiv (under review)'
 paperurl: 'https://arxiv.org/abs/2306.00168'
-citation: 'Nitay Calderon*, Naveh Porat*, Eyal Ben-David, Alexander Chapanin, Zorik Gekhman, Nadav Oved, Vitaly Shalumov, Roi Reichart'
+citation: 'Nitay Calderon*, Naveh Porat*, Eyal Ben-David, Alexander Chapanin, Zorik Gekhman, Nadav Oved, Vitaly Shalumov, Roi Reichart<br>*Equal contribution'
 date: 2024-04-20
 ---
 <details>

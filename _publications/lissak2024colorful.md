@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/lissak2024colorful
 venue: 'NAACL'
 paperurl: 'https://arxiv.org/pdf/2402.11886'
-citation: 'Shir Lissak*, Nitay Calderon*, Geva Shenkman, Yaakov Ophir, Eyal Fruchter, Anat Brunstein Klomek, Roi Reichart'
+citation: 'Shir Lissak*, Nitay Calderon*, Geva Shenkman, Yaakov Ophir, Eyal Fruchter, Anat Brunstein Klomek, Roi Reichart<br>*Equal contribution'
 date: 2024-06-15
 ---
 <details>
