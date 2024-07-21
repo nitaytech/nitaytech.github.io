@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/calderon2022docogen
 venue: 'ACL'
 paperurl: 'https://doi.org/10.18653/v1/2022.acl-long.533'
-citation: 'Nitay Calderon*, Eyal Ben-David*, Amir Feder and Roi Reichart    *equal contribution'
+citation: 'Nitay Calderon*, Eyal Ben-David*, Amir Feder and Roi Reichart'
 date: 2022-05-22
 ---
 <details>
