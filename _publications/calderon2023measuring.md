@@ -1,46 +1,24 @@
 ---
-title: "Measuring the Robustness of Natural Language Processing Models to Domain Shifts"
+title: "Measuring the Robustness of NLP Models to Domain Shifts"
 collection: publications
 permalink: /publication/calderon2023measuring
-venue: 'arXiv, 2023 (work in progress)'
-paperurl: 'https://doi.org/10.48550/arXiv.2306.00168'
-citation: 'Nitay Calderon, Naveh Porat, Eyal Ben-David, Zorik Gekhman, Nadav Oved and Roi Reichart'
-date: 2023-06-12
+venue: 'arXiv, 2024 (under review)'
+paperurl: 'https://arxiv.org/abs/2306.00168'
+citation: 'Nitay Calderon, Naveh Porat, Eyal Ben-David, Alexander Chapanin, Zorik Gekhman, Nadav Oved, Vitaly Shalumov, Roi Reichart'
+date: 2024-04-20
 ---
 <details>
 <summary>Abstract</summary>
-Large Language Models have shown promising performance on various tasks, including fine-tuning, few-shot learning, and zero-shot learning.
-However, their performance on domains without labeled data still lags behind those with labeled data, which we refer as the Domain Robustness (DR) challenge.
-Existing research on DR suffers from disparate setups, lack of evaluation task variety, and reliance on challenge sets.
-In this paper, we explore the DR challenge of both fine-tuned and few-shot learning models in natural domain shift settings.
-We introduce a DR benchmark comprising diverse NLP tasks, including sentence and token-level classification, QA, and generation, each task consists of several domains.
-We propose two views of the DR challenge: Source Drop (SD) and Target Drop (TD), which alternate between the source and target in-domain performance as reference points.
-We find that in significant proportions of domain shifts, either SD or TD is positive, but not both, emphasizing the importance of considering both measures as diagnostic tools.
-Our experimental results demonstrate the persistent existence of the DR challenge in both fine-tuning and few-shot learning models, though it is less pronounced in the latter. 
-We also find that increasing the fine-tuned model size improves performance, particularly in classification.
+Existing research on Domain Robustness (DR) suffers from disparate setups, limited task variety, and scarce research on recent capabilities such as in-context learning. Furthermore, the common practice of measuring DR might not be fully accurate. Current research focuses on challenge sets and relies solely on the Source Drop (SD): Using the source in-domain performance as a reference point for degradation. However, we argue that the Target Drop (TD), which measures degradation from the target in-domain performance, should be used as a complementary point of view. To address these issues, we first curated a DR benchmark comprised of 7 diverse NLP tasks, which enabled us to measure both the SD and the TD. We then conducted a comprehensive large-scale DR study involving over 14,000 domain shifts across 21 fine-tuned models and few-shot LLMs. We found that both model types suffer from drops upon domain shifts. While fine-tuned models excel in-domain, few-shot LLMs often surpass them cross-domain, showing better robustness. In addition, we found that a large SD can often be explained by shifting to a harder domain rather than by a genuine DR challenge, and this highlights the importance of TD as a complementary metric. We hope our study will shed light on the current DR state of NLP models and promote improved evaluation practices toward more robust models.
 </details>
 <details>
 <summary>bibtex</summary>
 <pre>
-@article{calderon2023measuring
-  author       = {Nitay Calderon and
-                  Naveh Porat and
-                  Eyal Ben{-}David and
-                  Zorik Gekhman and
-                  Nadav Oved and
-                  Roi Reichart},
-  title        = {Measuring the Robustness of Natural Language Processing Models to
-                  Domain Shifts},
-  journal      = {CoRR},
-  volume       = {abs/2306.00168},
-  year         = {2023},
-  url          = {https://doi.org/10.48550/arXiv.2306.00168},
-  doi          = {10.48550/arXiv.2306.00168},
-  eprinttype    = {arXiv},
-  eprint       = {2306.00168},
-  timestamp    = {Mon, 12 Jun 2023 16:25:59 +0200},
-  biburl       = {https://dblp.org/rec/journals/corr/abs-2306-00168.bib},
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
+@article{calderon2023measuring,
+  title={Measuring the Robustness of NLP Models to Domain Shifts},
+  author={Calderon, Nitay and Porat, Naveh and Ben-David, Eyal and Chapanin, Alexander and Gekhman, Zorik and Oved, Nadav and Shalumov, Vitaly and Reichart, Roi},
+  journal={arXiv preprint arXiv:2306.00168},
+  year={2024}
 }
 </pre>
 </details>

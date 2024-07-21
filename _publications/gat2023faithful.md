@@ -2,7 +2,7 @@
 title: "Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals"
 collection: publications
 permalink: /publication/gat@faithful
-venue: 'arXiv, 2023 (under review)'
+venue: 'ICLR, 2024'
 paperurl: 'http://arxiv.org/abs/2310.00603'
 citation: 'Yair Gat*, Nitay Calderon*, Amir Feder, Alexander Chapanin, Amit Sharma, Roi Reichart'
 date: 2023-10-01
@@ -26,5 +26,25 @@ Our work illuminates new pathways for efficient and accurate approaches to inter
 <details>
 <summary>bibtex</summary>
 <pre>
+@article{gat2023faithful,
+  author       = {Yair Ori Gat and
+                  Nitay Calderon and
+                  Amir Feder and
+                  Alexander Chapanin and
+                  Amit Sharma and
+                  Roi Reichart},
+  title        = {Faithful Explanations of Black-box {NLP} Models Using LLM-generated
+                  Counterfactuals},
+  journal      = {CoRR},
+  volume       = {abs/2310.00603},
+  year         = {2023},
+  url          = {https://doi.org/10.48550/arXiv.2310.00603},
+  doi          = {10.48550/ARXIV.2310.00603},
+  eprinttype    = {arXiv},
+  eprint       = {2310.00603},
+  timestamp    = {Wed, 18 Oct 2023 16:20:58 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2310-00603.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
 </pre>
 </details>

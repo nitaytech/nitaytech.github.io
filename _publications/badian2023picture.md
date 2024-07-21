@@ -2,7 +2,7 @@
 title: "A Picture May Be Worth a Thousand Lives: An Interpretable Artificial Intelligence Strategy for Predictions of Suicide Risk from Social Media Images"
 collection: publications
 permalink: /publication/badian2023picture
-venue: 'arXiv, 2023. Will be published in the Journal of Clinical Psychiatry.'
+venue: 'arXiv, 2023'
 paperurl: 'https://doi.org/10.48550/arXiv.2302.09488'
 citation: 'Yael Badian, Yaakov Ophir, Refael Tikochinski, Nitay Calderon, Anat Brunstein Klomek and Roi Reichart'
 date: 2023-02-23
