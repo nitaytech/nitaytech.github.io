@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/badian2023social
 venue: 'The Journal of Clinical Psychiatry'
 paperurl: 'https://legacy.psychiatrist.com/jcp/social-media-images-can-predict-suicide-risk-using-interpretable-large-language-vision-models/'
-citation: 'Yael Badian, Yaakov Ophir, Refael Tikochinski, Nitay Calderon, Anat Brunstein Klomek, Eyal Fruchter, Roi Reichart'
+citation: 'Yael Badian, Yaakov Ophir, Refael Tikochinski, Nitay Calderon, Anat Brunstein Klomek, Eyal Fruchter and Roi Reichart'
 date: 2023-11-29
 ---
 <details>

@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/gat@faithful
 venue: 'ICLR'
 paperurl: 'http://arxiv.org/abs/2310.00603'
-citation: 'Yair Gat*, Nitay Calderon*, Amir Feder, Alexander Chapanin, Amit Sharma, Roi Reichart<br>*Equal contribution'
+citation: 'Yair Gat*, Nitay Calderon*, Amir Feder, Alexander Chapanin, Amit Sharma and Roi Reichart<br>*Equal contribution'
 date: 2024-05-01
 ---
 <details>

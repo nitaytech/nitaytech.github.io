@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/calderon2024trends
 venue: 'arXiv (under review)'
 paperurl: 'https://arxiv.org/abs/2407.19200'
-citation: 'Nitay Calderon Roi Reichart<br>'
+citation: 'Nitay Calderon and Roi Reichart<br>'
 date: 2024-07-27
 ---
 <details>
