@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="664450ab-32df-4dcd-aa6f-ab8735ac2e50" name="Changes" comment="+trends paper">
+    <list default="true" id="664450ab-32df-4dcd-aa6f-ab8735ac2e50" name="Changes" comment="+authors">
+      <change afterPath="$PROJECT_DIR$/_publications/nahum2024llms.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_publications/ventura2024nleye.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2013-08-14-blog-post-2.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2014-08-14-blog-post-3.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-08-14-blog-post-4.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2199-01-01-future-post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/lissak2023colorful.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "nitaytech"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nitaytech&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/nitaytech/nitaytech.github.io.git",
-    "accountId": "78973726-65a6-4172-bc95-adfd6db7a10f"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/nitaytech/nitaytech.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;78973726-65a6-4172-bc95-adfd6db7a10f&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -39,28 +47,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nitaycalderon/Library/CloudStorage/OneDrive-Technion/PhD/Website/nitaytech.github.io/_publications&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/nitaycalderon/Library/CloudStorage/OneDrive-Technion/PhD/Website/nitaytech.github.io/_includes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/_publications" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$/_includes" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/bibilography" />
+      <recent name="$PROJECT_DIR$/_posts" />
+      <recent name="$PROJECT_DIR$/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
@@ -69,8 +79,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.19416.19" />
+        <option value="bundled-python-sdk-337b0a7a993a-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.19416.19" />
       </set>
     </attachedChunks>
   </component>
@@ -87,7 +97,11 @@
       <workItem from="1696583359577" duration="3226000" />
       <workItem from="1721569422224" duration="4619000" />
       <workItem from="1721583556323" duration="4003000" />
-      <workItem from="1722757656982" duration="598000" />
+      <workItem from="1722757656982" duration="1680000" />
+      <workItem from="1726324831187" duration="600000" />
+      <workItem from="1728491827341" duration="37000" />
+      <workItem from="1728491905938" duration="599000" />
+      <workItem from="1730709677607" duration="9660000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -209,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722328341766</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="+authors">
+      <option name="closed" value="true" />
+      <created>1722949989220</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1722949989220</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +290,7 @@
     <MESSAGE value="added equal" />
     <MESSAGE value="changed about" />
     <MESSAGE value="+trends paper" />
-    <option name="LAST_COMMIT_MESSAGE" value="+trends paper" />
+    <MESSAGE value="+authors" />
+    <option name="LAST_COMMIT_MESSAGE" value="+authors" />
   </component>
 </project>
