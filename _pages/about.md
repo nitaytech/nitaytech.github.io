@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p><small>PhD Candidate at NLP@Technion.</small></p>
+subtitle: <p><small>PhD Candidate at NLP@Technion</small></p>
 
 profile:
   align: right
