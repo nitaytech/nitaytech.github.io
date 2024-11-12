@@ -2,24 +2,22 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <p><small>PhD Candidate at NLP@Technion.</small></p>
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image: profile.jpeg
+  image_circular: true # crops the image to make it circular
+  more_info: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Ph.D. candidate at the faculty of [Data and Decisions Science](http://dds.technion.ac.il/) of the [Technion – Israel Institute of Technology](http://www.technion.ac.il/). My advisor is Professor [Roi Reichart](https://ie.technion.ac.il/~roiri/), and I am honored to be a [Clore fellow](https://clorefoundation.org.il/clore-scholars-programme/). Before that, I graduated with my B.Sc. in Data Science and Engineering from the Technion and was awarded the [Schulich Leaders](https://schulichleaders.com/) scholarship.
+<br><br>
+My research is in the field of Natural Language Processing (NLP) and lies in the intersection of Domain Adaptation, Causal Inference, and Language Generation. Specifically, I develop causal-inspired methods to improve out-of-distribution generalization, interpretability, and reliability of NLP systems. I am also working on developing NLP technology for scientific modelling in  brain, cognitive and mental health sciences.
+Check my [blog post](/blogs/2024-11-10-nlp4science) on this topic.
+<br><br>
+*I'm happy to talk about my research. If you have any questions about one of my papers, or my overall research, feel free to [reach out!](mailto:nitay@campus.technion.ac.il)*
