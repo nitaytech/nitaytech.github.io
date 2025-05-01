@@ -20,4 +20,6 @@ I am a Ph.D. candidate at the faculty of [Data and Decisions Science](http://dds
 My research is in the field of Natural Language Processing (NLP) and lies in the intersection of Domain Adaptation, Causal Inference, and Language Generation. Specifically, I develop causal-inspired methods to improve out-of-distribution generalization, interpretability, and reliability of NLP systems. I am also working on developing NLP technology for scientific modelling in  brain, cognitive and mental health sciences.
 Check my [blog post](/blog/2024/nlp4science/) on this topic.
 <br><br>
+📣🤩 I am excited to share that my paper ["On Behalf of the Stakeholders: Trends in NLP Model Interpretability in the Era of LLMs"](https://aclanthology.org/2025.naacl-long.29/) received the SAC Award (best paper) for Interpretability and Analysis of Models for NLP at [NAACL2025](https://2025.naacl.org/blog/best-papers/).
+<br><br>
 *I'm happy to talk about my research. If you have any questions, feel free to [reach out!](mailto:nitay@campus.technion.ac.il)*
