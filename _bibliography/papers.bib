@@ -352,3 +352,37 @@ Our work illuminates new pathways for efficient and accurate approaches to inter
   html={https://arxiv.org/abs/2505.20088},
   bibtex_show={true},
 }
+
+@article{zadok2026cognitive,
+  title={Human and large language model judgments of cognitive impairment from language: An explainable artificial intelligence approach},
+  author={Maya Zadok and Lotem Peled-Cohen and Nitay Calderon and Hila Gonen and Michal Schnaider Beeri and Roi Reichart},
+  journal={Alzheimer's \& Dementia: Diagnosis, Assessment \& Disease Monitoring},
+  year={2026},
+  doi={10.1002/dad2.70248},
+  abstract={We examine how non-expert humans (young adults unfamiliar with dementia) and large language models (LLMs) perceive dementia in transcribed texts -- recognizing signs that may indicate cognitive decline. Humans and LLMs intuitively judged whether transcribed picture descriptions came from dementia patients or healthy controls. We represented texts using high-level, expert-guided features and used logistic regression to model perceptions and analyze coefficients. Human judgments are inconsistent, relying on a narrow and sometimes misleading set of cues. LLMs use a richer, more clinically aligned feature set. Both groups show a tendency toward false negatives. This work highlights the need to educate humans and LLMs to recognize a broader range of dementia-related linguistic signals. It also underscores the value of interpretability in dementia research.},
+  url={https://doi.org/10.1002/dad2.70248},
+  html={https://doi.org/10.1002/dad2.70248},
+  bibtex_show={true},
+}
+
+@article{toker2026liberty,
+  title={LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals},
+  author={Gilat Toker and Nitay Calderon and Ohad Amosy and Roi Reichart},
+  journal={arXiv preprint arXiv:2601.10700},
+  year={2026},
+  abstract={Concept-based explanations quantify how high-level concepts (e.g., gender or experience) influence model behavior, which is crucial for decision-makers in high-stakes domains. Recent work evaluates the faithfulness of such explanations by comparing them to reference causal effects estimated from counterfactuals. In practice, existing benchmarks rely on costly human-written counterfactuals that serve as an imperfect proxy. To address this, we introduce a framework for constructing datasets containing structural counterfactual pairs: LIBERTy (LLM-based Interventional Benchmark for Explainability with Reference Targets). LIBERTy is grounded in explicitly defined Structured Causal Models (SCMs) of the text generation, interventions on a concept propagate through the SCM until an LLM generates the counterfactual. We introduce three datasets (disease detection, CV screening, and workplace violence prediction) together with a new evaluation metric, order-faithfulness. Using them, we evaluate a wide range of methods across five models and identify substantial headroom for improving concept-based explanations. LIBERTy also enables systematic analysis of model sensitivity to interventions: we find that proprietary LLMs show markedly reduced sensitivity to demographic concepts, likely due to post-training mitigation. Overall, LIBERTy provides a much-needed benchmark for developing faithful explainability methods.},
+  url={https://arxiv.org/abs/2601.10700},
+  html={https://arxiv.org/abs/2601.10700},
+  bibtex_show={true},
+}
+
+@article{azachi2025hallucination,
+  title={Leveraging NTPs for Efficient Hallucination Detection in VLMs},
+  author={Ofir Azachi and Kfir Eliyahu and Eyal El Ani and Rom Himelstein and Roi Reichart and Yuval Pinter and Nitay Calderon},
+  journal={arXiv preprint arXiv:2509.20379},
+  year={2025},
+  abstract={Hallucinations of vision-language models (VLMs), which are misalignments between visual content and generated text, undermine the reliability of VLMs. One common approach for detecting them employs the same VLM, or a different one, to assess generated outputs. This process is computationally intensive and increases model latency. In this paper, we explore an efficient on-the-fly method for hallucination detection by training traditional ML models over signals based on the VLM's next-token probabilities (NTPs). NTPs provide a direct quantification of model uncertainty. We hypothesize that high uncertainty (i.e., a low NTP value) is strongly associated with hallucinations. To test this, we introduce a dataset of 1,400 human-annotated statements derived from VLM-generated content, each labeled as hallucinated or not, and use it to test our NTP-based lightweight method. Our results demonstrate that NTP-based features are valuable predictors of hallucinations, enabling fast and simple ML models to achieve performance comparable to that of strong VLMs. Furthermore, augmenting these NTPs with linguistic NTPs, computed by feeding only the generated text back into the VLM, enhances hallucination detection performance. Finally, integrating hallucination prediction scores from VLMs into the NTP-based models led to better performance than using either VLMs or NTPs alone. We hope this study paves the way for simple, lightweight solutions that enhance the reliability of VLMs.},
+  url={https://arxiv.org/abs/2509.20379},
+  html={https://arxiv.org/abs/2509.20379},
+  bibtex_show={true},
+}
